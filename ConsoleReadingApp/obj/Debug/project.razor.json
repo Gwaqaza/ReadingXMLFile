@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\bbdnet1963\\source\\repos\\ConsoleReadingApp\\ConsoleReadingApp\\ConsoleReadingApp.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

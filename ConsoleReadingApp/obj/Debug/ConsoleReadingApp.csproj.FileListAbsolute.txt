@@ -1,0 +1,7 @@
+C:\Users\bbdnet1963\source\repos\ConsoleReadingApp\ConsoleReadingApp\bin\Debug\ConsoleReadingApp.exe.config
+C:\Users\bbdnet1963\source\repos\ConsoleReadingApp\ConsoleReadingApp\bin\Debug\ConsoleReadingApp.exe
+C:\Users\bbdnet1963\source\repos\ConsoleReadingApp\ConsoleReadingApp\bin\Debug\ConsoleReadingApp.pdb
+C:\Users\bbdnet1963\source\repos\ConsoleReadingApp\ConsoleReadingApp\obj\Debug\ConsoleReadingApp.csprojAssemblyReference.cache
+C:\Users\bbdnet1963\source\repos\ConsoleReadingApp\ConsoleReadingApp\obj\Debug\ConsoleReadingApp.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet1963\source\repos\ConsoleReadingApp\ConsoleReadingApp\obj\Debug\ConsoleReadingApp.exe
+C:\Users\bbdnet1963\source\repos\ConsoleReadingApp\ConsoleReadingApp\obj\Debug\ConsoleReadingApp.pdb
